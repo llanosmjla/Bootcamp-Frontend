@@ -28,4 +28,4 @@ const result2 = arr2.reduce((acc, item) => {
     
 },0)
 
-console.log(result2);
+
